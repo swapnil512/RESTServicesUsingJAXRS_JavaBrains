@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:messenger-cdd7486aef1382bfd1f7bf1c7e644431b337ce08" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:messenger" serverId="Tomcat v8.5 Server at localhost"/>
+</modules>
