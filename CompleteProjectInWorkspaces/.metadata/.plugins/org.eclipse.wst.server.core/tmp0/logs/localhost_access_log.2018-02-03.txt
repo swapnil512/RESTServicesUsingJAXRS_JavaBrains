@@ -1,0 +1,15 @@
+127.0.0.1 - - [03/Feb/2018:13:22:32 +0530] "GET / HTTP/1.1" 404 1070
+127.0.0.1 - - [03/Feb/2018:13:22:33 +0530] "GET /messenger/ HTTP/1.1" 200 247
+127.0.0.1 - - [03/Feb/2018:13:23:38 +0530] "GET /messenger/messages HTTP/1.1" 404 1088
+127.0.0.1 - - [03/Feb/2018:13:23:45 +0530] "GET /messenger/webapi/messages HTTP/1.1" 200 218
+0:0:0:0:0:0:0:1 - - [03/Feb/2018:13:24:08 +0530] "GET /messanger/webapi/messages HTTP/1.1" 404 1095
+0:0:0:0:0:0:0:1 - - [03/Feb/2018:13:24:18 +0530] "GET /messanger/webapi/messages HTTP/1.1" 404 1095
+0:0:0:0:0:0:0:1 - - [03/Feb/2018:13:24:19 +0530] "GET /messanger/webapi/messages HTTP/1.1" 404 1095
+0:0:0:0:0:0:0:1 - - [03/Feb/2018:13:24:19 +0530] "GET /messanger/webapi/messages HTTP/1.1" 404 1095
+0:0:0:0:0:0:0:1 - - [03/Feb/2018:13:24:31 +0530] "GET /messenger/ HTTP/1.1" 200 247
+0:0:0:0:0:0:0:1 - - [03/Feb/2018:13:24:39 +0530] "GET /messenger/ HTTP/1.1" 200 247
+0:0:0:0:0:0:0:1 - - [03/Feb/2018:13:25:18 +0530] "GET /messenger/profiles HTTP/1.1" 404 1088
+0:0:0:0:0:0:0:1 - - [03/Feb/2018:13:25:26 +0530] "GET /messenger/profiles HTTP/1.1" 404 1088
+0:0:0:0:0:0:0:1 - - [03/Feb/2018:13:25:27 +0530] "GET /messenger/profiles HTTP/1.1" 404 1088
+0:0:0:0:0:0:0:1 - - [03/Feb/2018:13:27:00 +0530] "GET /messenger/webapi/messages HTTP/1.1" 200 218
+0:0:0:0:0:0:0:1 - - [03/Feb/2018:13:27:05 +0530] "GET /messenger/webapi/profiles HTTP/1.1" 200 236

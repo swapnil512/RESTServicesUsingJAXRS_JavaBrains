@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.net.URI"/>
+<fullyQualifiedTypeName name="javax.ws.rs.core.Context"/>
+<fullyQualifiedTypeName name="javax.ws.rs.core.UriInfo"/>
+<fullyQualifiedTypeName name="java.net.URISyntaxException"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.ws.util.StringUtils"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="com.itsme.restfullTutor.messenger.exception.DataNotFoundException"/>
+<fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlRootElement"/>
+<fullyQualifiedTypeName name="javax.ws.rs.ext.Provider"/>
+<fullyQualifiedTypeName name="com.sun.org.apache.xalan.internal.xsltc.compiler.util.ErrorMessages_es"/>
+<fullyQualifiedTypeName name="com.itsme.restfullTutor.messenger.model.ErrorMessage"/>
+<fullyQualifiedTypeName name="javax.ws.rs.core.Response"/>
+<fullyQualifiedTypeName name="javax.ws.rs.core.Response.Status"/>
+<fullyQualifiedTypeName name="javax.ws.rs.NotFoundException"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="javax.ws.rs.core.UriBuilder"/>
+<fullyQualifiedTypeName name="org.glassfish.jersey.server.Uri"/>
+<fullyQualifiedTypeName name="com.itsme.restfullTutor.messenger.model.Profile"/>
+<fullyQualifiedTypeName name="com.itsme.restfullTutor.messenger.resources.ProfileResource"/>
+<fullyQualifiedTypeName name="com.itsme.restfullTutor.messenger.resources.MessageResource"/>
+<fullyQualifiedTypeName name="com.itsme.restfullTutor.messenger.resources.CommentResource"/>
+</qualifiedTypeNameHistroy>
